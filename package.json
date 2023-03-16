@@ -1,5 +1,5 @@
 {
-  "homepage": "https://oguzhan-ucar.github.io/firebase-contact-app-react-project",
+  "homepage": "https://oguzhan-ucar.github.io/contact-app-react-project",
   "name": "firebase-contact-app-react-project",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
     "dot-env": "^0.0.1",
     "env": "^0.0.2",
     "firebase": "^9.13.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
